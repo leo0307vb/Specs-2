@@ -10,7 +10,7 @@
   },
   "authors": "Google, Inc.",
   "platforms": {
-    "ios": "6.0",
+    "ios": "7.0",
     "tvos": "9.0"
   },
   "source": {
