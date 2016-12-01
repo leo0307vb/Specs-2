@@ -1,8 +1,8 @@
 {
   "authors": "Google, Inc.",
   "dependencies": {
-    "GoogleInterchangeUtilities": "~> 1.2",
-    "GoogleToolboxForMac/NSData+zlib": "~> 2.1"
+    "GoogleInterchangeUtilities": "~> 1.2"//,
+    // "GoogleToolboxForMac/NSData+zlib": "~> 2.1"
   },
   "description": "Firebase Core includes FIRApp and FIROptions which provide central configuration for other Firebase services.",
   "frameworks": [
