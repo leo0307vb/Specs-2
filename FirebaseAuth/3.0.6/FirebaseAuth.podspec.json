@@ -27,7 +27,7 @@
     "Security"
   ],
   "dependencies": {
-    "FirebaseAnalytics": "~> 3.4",
+    // "FirebaseAnalytics": "~> 3.4",
     "GTMSessionFetcher/Core": "~> 1.1",
     "GoogleToolboxForMac/NSDictionary+URLArguments": "~> 2.1"
   }
