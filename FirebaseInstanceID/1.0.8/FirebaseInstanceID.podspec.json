@@ -21,8 +21,5 @@
   ],
   "source_files": [
     "Sources/FIRInstanceID.h"
-  ],
-  "frameworks": [
-    "AddressBook"
   ]
 }
