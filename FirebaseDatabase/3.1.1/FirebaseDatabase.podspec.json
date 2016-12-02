@@ -1,7 +1,7 @@
 {
   "authors": "Google, Inc.",
   "dependencies": {
-    "FirebaseAnalytics": "~> 3.5"
+    // "FirebaseAnalytics": "~> 3.5"
   },
   "description": "Store and sync data with the Firebase Realtime Database. Data is synced across all clients in realtime, and remains available when your app goes offline.",
   "frameworks": [
